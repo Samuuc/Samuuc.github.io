@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Pagina Web para taller 1 de vision por computador
 
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
