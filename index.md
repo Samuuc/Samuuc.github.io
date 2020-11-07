@@ -1,6 +1,6 @@
 ## Pagina Web para taller 1 de vision por computador
 
-<div>Teachable Machine Image Model</div>
+<div>Presione aqui para probar el algoritmo</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
 <div id="label-container"></div>
